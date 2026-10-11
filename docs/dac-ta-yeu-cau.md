@@ -4,6 +4,7 @@
 - **FR-02:** Đăng nhập, xác thực và phân quyền truy cập
 - **FR-03:** Tìm kiếm và tra cứu sách trong kho
 - **FR-04:** Quản lý quy trình mượn và trả sách
+- **FR-05:** Quản lý kho sách, nhập sách và xuất hủy sách
 - **FR-06:** Báo cáo thống kê tình hình mượn trả và tồn kho
 - **FR-07:** Quản lý thông tin độc giả và thẻ thư viện
 - **FR-08:** Hướng dẫn cài đặt, cấu hình môi trường và tài liệu
